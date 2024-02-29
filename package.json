@@ -1,0 +1,20 @@
+{
+  "name": "otp-alpha-genrator",
+  "version": "1.0.0",
+  "description": "[![NPM version](https://img.shields.io/npm/v/otp-alpha-genrator.svg)](https://www.npmjs.com/package/otp-alpha-genrator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["OTP", "AlphaGenerator"],
+  "author": {
+    "name": "avishkar-thawale",
+    "email": "thawaleavishkar@gmail.com",
+    "url": "https://github.com/thawale"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thawale/otp-alpha-genrator"
+  },
+  "license": "ISC"
+}
