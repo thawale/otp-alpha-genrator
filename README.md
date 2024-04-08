@@ -3,7 +3,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/otp-alpha-genrator.svg)](https://www.npmjs.com/package/otp-alpha-genrator)
 
-A library to help you Gerate OTP and Alpha numric random Id's
+A library to help you Genrate OTP and Alpha numric random Id's
 
 
 ## Installation
